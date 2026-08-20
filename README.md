@@ -3,7 +3,7 @@
 A custom Discord client focused on customization, performance, and a unique experience.
 
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" width="150">
+  <img src="https://github.com/nickydagoat/FrostCord-Download/blob/main/frostcordicologo.png?raw=true" width="150">
 </p>
 
 ## 📥 Download
