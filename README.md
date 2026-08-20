@@ -25,9 +25,9 @@ Get the latest version of Frostcord from the GitHub Releases page.
 
 1. Go to the [latest release](../../releases/latest).
 2. Download the Frostcord installer.
-3. Run the installer.
-4. Follow the installation instructions.
-5. Launch Frostcord.
+3. Right-click the installer and select **Run as administrator**.
+4. Follow the installer prompts.
+5. Launch Frostcord. ❄️
 
 ## 📦 Releases
 
